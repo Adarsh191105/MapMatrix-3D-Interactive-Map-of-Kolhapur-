@@ -90,10 +90,10 @@ Kolhapur Institute of Technology's College of Engineering, Kolhapur (Empowered A
 
 | Name | Contribution |
 |---|---|
-| Anusha Patil | `<role>` |
-| Pratik Patil | `<role>` |
-| Adarsh Gurav | `<role>` |
-| Sanket Magdum | `<role>` |
+| Anusha Patil | `<Frontend>` |
+| Pratik Patil | `<React>` |
+| Adarsh Gurav | `<Frontend,Blender>` |
+| Sanket Magdum | `<Documentation>` |
 
 **Guide:** Mr. Vivek Ugale  |  **HOD:** Dr. Lingaraj Hadimani
 
